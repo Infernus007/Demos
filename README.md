@@ -5,4 +5,3 @@ Each subfolder represents a blog topic with runnable code and supporting files.
 
 ---
 
-## 📁 Repository Structure
